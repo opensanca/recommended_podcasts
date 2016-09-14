@@ -4,10 +4,10 @@ Podcasts recomendados pela comunidade do opensanca.
 
 ## Categorias
 
+- [Desenvolvimento de Software](#software-development)
+  - [Hipsters.tech] (#hipsters-tech)
 - [Geral](#geral)
   - [CodeNewbie](#code-newbie)
-- [Software Development](#software-development)
-  - [Hipsters.tech] (#hipsters-tech)
 - [Software livre e GNU/Linux](#sf-gnu-linux)
   - [FLOSS Weekly](#floss-weekly)
   - [Linux Action Show](#linux-action-show)
@@ -17,19 +17,17 @@ Podcasts recomendados pela comunidade do opensanca.
 - [Segurança](#segurança)
   - [Security Now](#security-now)
 
+
+## <a name="software-development" /> Desenvolvimento de Software
+
+### <a name="hipsters-tech" /> Hipsters.tech
+[Hipsters.tech](http://hipsters.tech/) é o canal onde o pessoal da Alura entra em discussões acaloradas sobre startups, programação, ux, gadgets e as últimas tendências em tecnologia.
+
 ## Geral
 
 ### <a name="code-newbie" /> CodeNewbie
 
 [Code Newbie](http://www.codenewbie.org/) está mais para uma comunidade (eles tem blog, chat, etc) e um podcast com mais de 100 episódios, que tem como objetivo dar suporte para programadores e pessoas aprendendo a programar. Eles tratam de tópicos gerais, sempre trazendo um convidado que conhece bem o assunto para comentar. Geralmente com um foco em tópicos básicos e gerais, não muito específicos de uma certa tecnologia e dicas valiosas para quem quer seguir a carreira como programador ou está em início de carreira, empreendedorismo, etc, com uma linguagem bem simples! Vale a pena conferir.
-
-## <a name="software-development" /> Software Development
-
-### <a name="hipsters-tech" /> Hipsters.tech
-[Hipsters.tech](http://hipsters.tech/) é o canal onde o pessoal da Alura entra em discussões acaloradas sobre startups, programação, ux, gadgets e as últimas tendências em tecnologia.
-
-[Code Newbie](http://www.codenewbie.org/) está mais para uma comunidade (eles tem blog, chat, etc) e um podcast com mais de 100 episódios, que tem como objetivo dar suporte para programadores e pessoas aprendendo a programar. Eles tratam de tópicos gerais, sempre trazendo um convidado que conhece bem o assunto para comentar. Geralmente com um foco em tópicos básicos e gerais, não muito específicos de uma certa tecnologia e dicas valiosas para quem quer seguir a carreira como programador ou está em início de carreira, empreendedorismo, etc, com uma linguagem bem simples! Vale a pena conferir.
-
 
 ## <a name="sf-gnu-linux" /> Software livre e GNU/Linux
 
