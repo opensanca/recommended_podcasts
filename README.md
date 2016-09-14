@@ -4,6 +4,8 @@ Podcasts recomendados pela comunidade do opensanca.
 
 ## Categorias
 
+- [Desenvolvimento de Software](#software-development)
+  - [Hipsters.tech] (#hipsters-tech)
 - [Geral](#geral)
   - [CodeNewbie](#code-newbie)
 - [Software livre e GNU/Linux](#sf-gnu-linux)
@@ -14,6 +16,12 @@ Podcasts recomendados pela comunidade do opensanca.
   - [Bad Voltage](#bad-voltage)
 - [Segurança](#segurança)
   - [Security Now](#security-now)
+
+
+## <a name="software-development" /> Desenvolvimento de Software
+
+### <a name="hipsters-tech" /> Hipsters.tech
+[Hipsters.tech](http://hipsters.tech/) é o canal onde o pessoal da Alura entra em discussões acaloradas sobre startups, programação, ux, gadgets e as últimas tendências em tecnologia.
 
 ## Geral
 
