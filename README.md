@@ -7,6 +7,7 @@ Podcasts recomendados pela comunidade do opensanca.
 - [Desenvolvimento de Software](#software-development)
   - [Hipsters.tech] (#hipsters-tech)
   - [Lambda3] (#lambda3)
+  - [NerdTech] (#nerdtech)
 - [Geral](#geral)
   - [CodeNewbie](#code-newbie)
 - [Software livre e GNU/Linux](#sf-gnu-linux)
@@ -28,6 +29,9 @@ Podcasts recomendados pela comunidade do opensanca.
 
 [Lambda3](https://blog.lambda3.com.br/tag/podcast/)  é um programa feito pelas pessoas que trabalham na Lambda3. Ele é feito 100% de acordo com os desejos das pessoas, sem viés tecnologico, sem viés de mercado, pensando em levar o melhor das discussões que ocorrem no dia-a-dia do desenvolvimento da Lambda3 para a comunidade técnica. O podcast segue um formato de conversa, bem descontraída, abordando temas técnicos e também temas não técnicos que nós Lambdas consideramos importantes e relevantes, e por isso escolhemos compartilhar.
 
+### <a name="nerdtech" />  NerdTech
+
+[NerdTech](https://jovemnerd.com.br/playlist/nerdtech/)  é uma playlist criada em parceria com a galera da Alura, onde os nerds se juntam para falar de tecnologia, especificamento do mundo da programação web. Então, uma vez por mês você já pode contar com a sua dose de tecnologia aqui no Nerdtech!
 
 ## Geral
 
