@@ -6,6 +6,7 @@ Podcasts recomendados pela comunidade do opensanca.
 
 - [Desenvolvimento de Software](#software-development)
   - [Hipsters.tech] (#hipsters-tech)
+  - [Lambda3] (#lambda3)
 - [Geral](#geral)
   - [CodeNewbie](#code-newbie)
 - [Software livre e GNU/Linux](#sf-gnu-linux)
@@ -22,6 +23,11 @@ Podcasts recomendados pela comunidade do opensanca.
 
 ### <a name="hipsters-tech" /> Hipsters.tech
 [Hipsters.tech](http://hipsters.tech/) é o canal onde o pessoal da Alura entra em discussões acaloradas sobre startups, programação, ux, gadgets e as últimas tendências em tecnologia.
+
+### <a name="lambda3" />  Lambda3
+
+[Lambda3](https://blog.lambda3.com.br/tag/podcast/)  é um programa feito pelas pessoas que trabalham na Lambda3. Ele é feito 100% de acordo com os desejos das pessoas, sem viés tecnologico, sem viés de mercado, pensando em levar o melhor das discussões que ocorrem no dia-a-dia do desenvolvimento da Lambda3 para a comunidade técnica. O podcast segue um formato de conversa, bem descontraída, abordando temas técnicos e também temas não técnicos que nós Lambdas consideramos importantes e relevantes, e por isso escolhemos compartilhar.
+
 
 ## Geral
 
