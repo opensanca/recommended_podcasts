@@ -11,6 +11,7 @@ Podcasts recomendados pela comunidade do opensanca.
   - [PodProgramar](#pod-programar)
   - [QuebraDev](#quebra-dev)
   - [DevNaEstrada](#dev-na-estrada)
+  - [Getup Kubicast](getup-kubicast)
 - [DataScience](#DataScience)
   - [DataHackers](#data-hackers)
 - [Agile](#Agile)
@@ -31,8 +32,7 @@ Podcasts recomendados pela comunidade do opensanca.
   - [Bad Voltage](#bad-voltage)
 - [Segurança](#segurança)
   - [Security Now](#security-now)
-- [DevOps](#DevOps)
-  - [Getup Kubicast](getup-kubicast)
+
 
 ## <a name="software-development" /> Desenvolvimento de Software
 
@@ -59,6 +59,10 @@ O QuebraDev é um podcast de origem periférica que surgiu de forma independente
 [DevNaEstrada](https://open.spotify.com/show/1yQ2qrscxoTmdUvZgMoY4a)
 O podcast mais tradicional sobre desenvolvimento! Toda sexta-feira um novo episódio sobre tecnologias, entrevistas com profissionais na área, tudo com muito humor e alegria
 
+### <a name="gethub-kubicast" /> Getup Kubicast
+
+[Getup Kubicast](https://open.spotify.com/show/7x2OHOUAaOnTjlSwBHNAjN) 
+Canal de podcasts sobre Kubernetes, containers e tudo o que orbita ao seu redor, com uma dose de humor e nostalgia.
 
 ## DataScience
 
@@ -144,10 +148,3 @@ e Steve Gibson, é um podcast sobre as últimas notícias sobre segurança e
 tecnologia. O podcast também traz discussões aprofundadas sobre tecnologias que
 são base para a computação e Internet, além de explicações sobre exploits e
 brechas de segurança.
-
-## DevOps
-
-### <a name="gethub-kubicast" /> Getup Kubicast
-
-[Getup Kubicast](https://open.spotify.com/show/7x2OHOUAaOnTjlSwBHNAjN) 
-Canal de podcasts sobre Kubernetes, containers e tudo o que orbita ao seu redor, com uma dose de humor e nostalgia.
