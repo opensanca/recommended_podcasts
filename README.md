@@ -14,6 +14,7 @@ Podcasts recomendados pela comunidade do opensanca.
   - [Getup Kubicast](getup-kubicast)
 - [DataScience](#DataScience)
   - [DataHackers](#data-hackers)
+  - [PizzaDeDados](#pizza-de-dados)
 - [Agile](#Agile)
   - [Love the Problem](#love-the-problem)
   - [Conversa Ágil](#conversa-agil)
@@ -68,6 +69,8 @@ Canal de podcasts sobre Kubernetes, containers e tudo o que orbita ao seu redor,
 
 ### <a name="data-hackers" /> DataHackers
 [Data Hackers](https://open.spotify.com/show/1oMIHOXsrLFENAeM743g93?si=eFiMNPX8RgybW8cpTkCfhg) Podcast oficial do Data Hackers: a comunidade brasileira de Data Science, Machine Learning, Data Engineering e Big Data
+### <a name="pizza-de-dados" /> Pizza de Dados
+[Pizza de Dados](https://open.spotify.com/show/5k0Ei0MSg5BuiHshr43aSg?si=6nUf0lCHR1-WdZQk2L9pTQ) O primeiro podcast Brasileiro sobre ciência de dados
 
 ## Agile
 
